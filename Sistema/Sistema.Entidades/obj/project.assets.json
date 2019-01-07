@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nvillasaldo\\Documents\\Documentos_PDF\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\nvillasaldo\\Documents\\Repositorio\\Sistema_Web\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj",
       "projectName": "Sistema.Entidades",
-      "projectPath": "C:\\Users\\nvillasaldo\\Documents\\Documentos_PDF\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj",
+      "projectPath": "C:\\Users\\nvillasaldo\\Documents\\Repositorio\\Sistema_Web\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj",
       "packagesPath": "C:\\Users\\nvillasaldo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nvillasaldo\\Documents\\Documentos_PDF\\Sistema\\Sistema.Entidades\\obj\\",
+      "outputPath": "C:\\Users\\nvillasaldo\\Documents\\Repositorio\\Sistema_Web\\Sistema\\Sistema.Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
