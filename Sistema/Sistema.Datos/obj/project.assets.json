@@ -3621,11 +3621,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nvillasaldo\\Documents\\Repositorio\\Sistema_Web\\Sistema\\Sistema.Datos\\Sistema.Datos.csproj",
+      "projectUniqueName": "C:\\GitRepositorio\\Sistema_Web\\Sistema\\Sistema.Datos\\Sistema.Datos.csproj",
       "projectName": "Sistema.Datos",
-      "projectPath": "C:\\Users\\nvillasaldo\\Documents\\Repositorio\\Sistema_Web\\Sistema\\Sistema.Datos\\Sistema.Datos.csproj",
+      "projectPath": "C:\\GitRepositorio\\Sistema_Web\\Sistema\\Sistema.Datos\\Sistema.Datos.csproj",
       "packagesPath": "C:\\Users\\nvillasaldo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nvillasaldo\\Documents\\Repositorio\\Sistema_Web\\Sistema\\Sistema.Datos\\obj\\",
+      "outputPath": "C:\\GitRepositorio\\Sistema_Web\\Sistema\\Sistema.Datos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

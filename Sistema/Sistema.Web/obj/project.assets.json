@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nvillasaldo\\Documents\\Repositorio\\Sistema_Web\\Sistema\\Sistema.Web\\Sistema.Web.csproj",
+      "projectUniqueName": "C:\\GitRepositorio\\Sistema_Web\\Sistema\\Sistema.Web\\Sistema.Web.csproj",
       "projectName": "Sistema.Web",
-      "projectPath": "C:\\Users\\nvillasaldo\\Documents\\Repositorio\\Sistema_Web\\Sistema\\Sistema.Web\\Sistema.Web.csproj",
+      "projectPath": "C:\\GitRepositorio\\Sistema_Web\\Sistema\\Sistema.Web\\Sistema.Web.csproj",
       "packagesPath": "C:\\Users\\nvillasaldo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nvillasaldo\\Documents\\Repositorio\\Sistema_Web\\Sistema\\Sistema.Web\\obj\\",
+      "outputPath": "C:\\GitRepositorio\\Sistema_Web\\Sistema\\Sistema.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

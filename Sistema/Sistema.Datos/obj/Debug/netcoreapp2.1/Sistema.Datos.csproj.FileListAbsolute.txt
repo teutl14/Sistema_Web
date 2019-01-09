@@ -4,3 +4,9 @@ C:\Users\nvillasaldo\Documents\Repositorio\Sistema_Web\Sistema\Sistema.Datos\obj
 C:\Users\nvillasaldo\Documents\Repositorio\Sistema_Web\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csproj.CoreCompileInputs.cache
 C:\Users\nvillasaldo\Documents\Repositorio\Sistema_Web\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfoInputs.cache
 C:\Users\nvillasaldo\Documents\Repositorio\Sistema_Web\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfo.cs
+C:\GitRepositorio\Sistema_Web\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.deps.json
+C:\GitRepositorio\Sistema_Web\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\GitRepositorio\Sistema_Web\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csprojAssemblyReference.cache
+C:\GitRepositorio\Sistema_Web\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\GitRepositorio\Sistema_Web\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfoInputs.cache
+C:\GitRepositorio\Sistema_Web\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfo.cs
