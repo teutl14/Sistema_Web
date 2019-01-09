@@ -1,0 +1,6 @@
+C:\Users\nvillasaldo\Documents\Repositorio\Sistema_Web\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.deps.json
+C:\Users\nvillasaldo\Documents\Repositorio\Sistema_Web\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\nvillasaldo\Documents\Repositorio\Sistema_Web\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\nvillasaldo\Documents\Repositorio\Sistema_Web\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\nvillasaldo\Documents\Repositorio\Sistema_Web\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfoInputs.cache
+C:\Users\nvillasaldo\Documents\Repositorio\Sistema_Web\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfo.cs
