@@ -12,4 +12,13 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Mapping\Ventas\" />
+    <Folder Include="Mapping\Usuarios\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sistema.Entidades\Sistema.Entidades.csproj" />
+  </ItemGroup>
+
 </Project>
