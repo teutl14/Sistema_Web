@@ -1,0 +1,6 @@
+C:\Users\nvillasaldo\Documents\Repositorio\Sistema_Web\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\Users\nvillasaldo\Documents\Repositorio\Sistema_Web\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\nvillasaldo\Documents\Repositorio\Sistema_Web\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csprojAssemblyReference.cache
+C:\Users\nvillasaldo\Documents\Repositorio\Sistema_Web\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nvillasaldo\Documents\Repositorio\Sistema_Web\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\Users\nvillasaldo\Documents\Repositorio\Sistema_Web\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
